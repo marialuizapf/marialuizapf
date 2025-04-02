@@ -37,7 +37,7 @@
 ### 👋 Conecte-se comigo
 
 <p align="center">
-  <a href="www.linkedin.com/in/maria-luiza-pinheiro-3a1b15305/" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-luiza-pinheiro-3a1b15305" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
