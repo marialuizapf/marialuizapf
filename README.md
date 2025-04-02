@@ -20,7 +20,7 @@
 ### 📚 Portfólios
 
 - 🎮 [Portfólio de Jogos (Unity + C#)](https://github.com/seuusuario/portfolio-games)  
-- 📊 [Portfólio de Data Science (SQL + Python)](https://github.com/seuusuario/portfolio-datascience)
+- 📊 [Portfólio de Data Science (SQL + Python)](https://github.com/marialuizapf/Data-Science-portfolio)
 
 ---
 
