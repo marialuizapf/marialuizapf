@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Maria Luiza</h1>
+<h1 align="left">👩‍💻 Maria Luiza</h1>
 <p align="center">
   Estudante de Ciência da Computação na UFRJ | Foco em Data Science e Inteligência Artificial  
   Desenvolvedora de jogos paralelamente 🎮
