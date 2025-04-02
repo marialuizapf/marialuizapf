@@ -4,7 +4,7 @@
   Desenvolvedora de jogos paralelamente 🎮
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=marialuiza&color=blue" alt="Profile views" />
 </p>
 
