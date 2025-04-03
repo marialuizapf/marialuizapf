@@ -29,7 +29,7 @@
 - **Banco de Dados:** MySQL, PostgreSQL  
 - **Ferramentas:** Git, GitHub, Google Colab, Excel  
 - **Visualização:** Power BI, Looker Studio  
-- **Game Dev:** Unity, BitKraken
+- **Game Dev:** Unity
 
 ---
 
