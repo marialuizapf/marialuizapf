@@ -7,6 +7,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=marialuiza&color=blue" alt="Profile views" />
 </p>
+
 ### 📚 Projetos
 
 - Consultas SQL, análises e visualizações de dados
