@@ -35,17 +35,9 @@
 
 ## ✨ GitHub Profile Summary Card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuizapf&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marialuizapf&theme=tokyonight" />
-</p>
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marialuizapf&theme=tokyonight)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marialuizapf&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marialuizapf&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialuiza&layout=compact)
 
 ### 👋 Conecte-se comigo
 
