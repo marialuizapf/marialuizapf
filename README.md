@@ -1,4 +1,3 @@
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=marialuiza&color=blue" alt="Profile views" />
 </p>
@@ -33,6 +32,14 @@
 - **Game Dev:** Unity
 
 ---
+
+## ✨ GitHub Profile Summary Card
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marialuizapf&theme=tokyonight)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marialuizapf&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marialuizapf&theme=tokyonight)
 
 ### 👋 Conecte-se comigo
 
