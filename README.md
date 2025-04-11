@@ -35,6 +35,10 @@
 
 ## ✨ GitHub Profile Summary Card
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marialuizapf&theme=tokyonight" />
+</p>
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marialuizapf&theme=tokyonight)
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marialuizapf&theme=tokyonight)
