@@ -39,6 +39,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialuiza&layout=compact)
 
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marialuizapf&theme=tokyonight)
+
 ### 👋 Conecte-se comigo
 
 <p align="center">
