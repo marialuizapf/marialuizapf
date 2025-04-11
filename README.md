@@ -1,11 +1,11 @@
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=marialuiza&color=blue" alt="Profile views" />
+</p>
 <h1 align="left">Maria Luiza</h1>
 <p align="center">
   Estudante de Ciência da Computação na UFRJ | Foco em Data Science e Inteligência Artificial  
   Desenvolvedora de jogos paralelamente 🎮
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=marialuiza&color=blue" alt="Profile views" />
 </p>
 
 ### 📚 Projetos
