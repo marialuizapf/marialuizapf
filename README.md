@@ -37,7 +37,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuizapf&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialuiza&layout=compact)
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marialuizapf&theme=tokyonight)
 
