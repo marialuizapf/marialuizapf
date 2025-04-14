@@ -34,13 +34,7 @@
 ---
 
 ## ✨ GitHub Profile Summary Card
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuizapf&show_icons=true&theme=tokyonight)
-
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marialuizapf&theme=tokyonight)
-
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuizapf&show_icons=true&theme=tokyonight) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marialuizapf&theme=tokyonight) |
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuizapf&show_icons=true&theme=tokyonight)                    ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marialuizapf&theme=tokyonight) 
 
 ### 👋 Conecte-se comigo
 
